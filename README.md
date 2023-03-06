@@ -1,1 +1,1 @@
-# Notes-App
+# Notes-App  The project will consist of a simple web-based application that allows users to create and manage notes. The user interface will consist of a text area where users can create their notes, a button to save the note, and a list of all saved notes.
